@@ -1,0 +1,26 @@
+h1 {
+	font-family:  'Black Ops One', cursive;
+	text-align: left;
+	font-size: 28pt;
+}
+h2 {
+	font-family:  'Black Ops One', cursive;
+	
+	font-size: 20pt;
+}
+p{
+	font-family:'Fjalla One', sans-serif;
+	
+}
+#vietnam { 
+	width:400px;
+	height:700px;
+	float:left;
+	margin-right:15px;
+
+
+}
+
+#pics{
+	display:inline;
+}

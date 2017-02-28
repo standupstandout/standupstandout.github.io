@@ -1,0 +1,45 @@
+/*body {*/
+	/*background-image: url(http://dy00k1db5oznd.cloudfront.net/wp-content/uploads/2017/02/32707682242_78687be74b_k-1280x720.jpg);*/
+/*}*/
+
+header {
+	text-align: center;
+	font-family: 'Black Ops One', cursive;
+}
+div	{
+	text-align: center;
+	border:10px black;
+	vertical-align: top;
+    display: inline-block;	
+
+}
+a {
+	font-family: 'Bungee', cursive;
+	font-size: 16pt;
+	text-decoration: none;
+	color:black;
+	display:block;
+}
+#panthers { 
+	width:250px;
+	
+}
+#prayer {
+	height:250px;
+	width:425px;
+}
+#vietnam {
+	height:400px;
+	width:250px; 
+}
+#nam {
+	margin-left: 35px;
+}
+#black {
+	margin-right:35px;
+}
+#free {
+	margin:25px;
+}
+
+
