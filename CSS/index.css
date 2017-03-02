@@ -5,6 +5,7 @@
 header {
 	text-align: center;
 	font-family: 'Black Ops One', cursive;
+	font-size: 34pt;
 }
 div	{
 	text-align: center;
@@ -17,29 +18,41 @@ a {
 	font-family: 'Bungee', cursive;
 	font-size: 16pt;
 	text-decoration: none;
-	color:black;
+	color:magenta;
 	display:block;
 }
 #panthers { 
-	width:250px;
-	
+/*	width:400px;
+	height:230px;*/
+	width:75%;
+	height:67%;
 }
 #prayer {
-	height:250px;
-	width:425px;
+	/*height:250px;
+	width:415px;*/
+	width:73%;
+	height:68%;
+
 }
 #vietnam {
-	height:400px;
-	width:250px; 
-}
-#nam {
-	margin-left: 35px;
-}
-#black {
-	margin-right:35px;
+/*	height:400px;
+	width:250px;*/
+	height:70%;
+	width:60%; 
 }
 #free {
-	margin:25px;
+	width:30%;
+	margin-left:4.5% ;
+/*	margin-top:100px;*/
+}
+#black {
+width:30%;
+margin-right: 4.5%;
+
+}
+#nam {
+	width:30%;
+	/*margin:15%;*/
 }
 
 

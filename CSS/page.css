@@ -1,7 +1,8 @@
 h1 {
 	font-family:  'Black Ops One', cursive;
 	text-align: left;
-	font-size: 28pt;
+	font-size: 30pt;
+	color:magenta;
 }
 h2 {
 	font-family:  'Black Ops One', cursive;
@@ -12,6 +13,7 @@ p{
 	font-family:'Fjalla One', sans-serif;
 	
 }
+
 #vietnam { 
 	width:400px;
 	height:700px;
@@ -20,7 +22,33 @@ p{
 
 
 }
+#moment {
 
-#pics{
-	display:inline;
+}
+
+#prayer {
+	
+	margin-right:15px;
+
+}
+.pray {
+
+}
+
+
+#photoscroll {
+	margin: 80px auto;
+  position: relative;
+  width: 240px;
+  height: 240px;
+  padding: 10px;
+ 
+}
+
+#photoscroll>div {
+	  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
 }
