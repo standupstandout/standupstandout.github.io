@@ -45,7 +45,7 @@ p{
  
 }
 
-#photoscroll>div {
+#photoscroll > img {
 	  position: absolute;
   top: 10px;
   left: 10px;
