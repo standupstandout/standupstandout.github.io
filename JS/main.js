@@ -8,7 +8,10 @@
     // setInterval(function(){
     //     var pics= $('#photoscroll :first-child').fadeOut(1000).next();
     //     pics.appendTo('#photoscroll').fadeIn(1000).end();
-    // },5000);        
+    // },5000);     
+
+
+
 var current=0;
 
 setInterval(function(){
